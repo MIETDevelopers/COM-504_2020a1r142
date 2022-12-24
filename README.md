@@ -1,2 +1,3 @@
-# COM-504_2020a1r142
-Online Banking System
+# Online Banking System
+
+This is an Online Banking Concept created using Django Web Framework.
